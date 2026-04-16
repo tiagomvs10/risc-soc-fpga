@@ -1,0 +1,25 @@
+# Vivado project files (generated/cached)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.xpr
+*.jou
+*.log
+*.str
+*.wdb
+
+# Bitstream
+*.bit
+*.bin
+*.ltx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
