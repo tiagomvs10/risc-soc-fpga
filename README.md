@@ -2,8 +2,6 @@
 
 A 16-bit RISC System-on-Chip designed from scratch in Verilog, synthesized and verified on a **Zybo Z7-10 FPGA** board.
 
-Built as part of the *Embedded Systems and Computers* course (Master's in Industrial Electronics Engineering, University of Minho).
-
 ![SoC Architecture](docs/images/architecture.png)
 
 ## Overview
